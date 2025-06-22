@@ -1,0 +1,13 @@
+# Ignore build outputs
+/target/
+/backend/target/
+/**/classes/
+/**/*.class
+
+# Ignore IntelliJ/VSCode configs (if any)
+.idea/
+.vscode/
+
+# Ignore secrets
+*.env
+application.properties

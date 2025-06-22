@@ -1,0 +1,6 @@
+com\synchronoss\capsyl\gmailplugin\UserController.class
+com\synchronoss\capsyl\gmailplugin\GmailService.class
+com\synchronoss\capsyl\gmailplugin\EmailPage.class
+com\synchronoss\capsyl\gmailplugin\GmailPluginApplication.class
+com\synchronoss\capsyl\gmailplugin\EmailTeaser.class
+com\synchronoss\capsyl\gmailplugin\SecurityConfig.class

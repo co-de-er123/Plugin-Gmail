@@ -1,6 +1,6 @@
-# Gmail Plugin for Capsyl Cloud
+# Gmail Plugin 
 
-A web application that allows users to access their Gmail emails with attachments and download them directly into their Capsyl Personal Cloud storage.
+A web application that allows users to access their Gmail emails with attachments and download them directly into their Personal storage.
 
 ## Features
 
